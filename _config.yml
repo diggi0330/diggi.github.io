@@ -5,10 +5,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
-name: Google Brain
-url: agarwl.github.io
-enforce_ssl: agarwl.github.io
-description: Rishabh's personal website
+name: 
+url: diggi0330.github.io
+enforce_ssl: diggi0330.github.io
+description: Digvijay's personal website
 
 collections:
   ml:
