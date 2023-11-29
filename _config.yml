@@ -5,7 +5,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
-name: 
+name: Ph.D. Student
 url: diggi0330.github.io
 enforce_ssl: diggi0330.github.io
 description: Digvijay's personal website
